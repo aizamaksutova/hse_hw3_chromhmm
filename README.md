@@ -17,7 +17,7 @@ hw3 bioinformatics
 
 ![Image](/img/transitions_15.png)
 
-![Image](/img/emissions_15 (1).png)
+![Image](/img/emissions_15.png)
 
 
 ![Image](/img/img11.png)
